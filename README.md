@@ -1,2 +1,2 @@
-# pycharm
-http://www.jetbrains.com/pycharm
+# jetbrains
+http://www.jetbrains.com
